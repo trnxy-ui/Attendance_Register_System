@@ -8,12 +8,7 @@ Public Class SIGN_IN
         Me.Hide()
     End Sub
     Private Sub clear() 'Handlin clear
-        txtPassword.Clear()
-        TxtUserId.Clear()
-        txtUserName.Clear()
-        txtNewPassword.Clear()
-        TxtNewUserId.Clear()
-        txtNewUserName.Clear()
+
     End Sub
 
     Private Sub btnSignIn_Click(sender As Object, e As EventArgs) Handles btnSignIn.Click
