@@ -85,7 +85,7 @@ Public Class SIGN_IN
         If chlShowPassword.Checked Then 'handling checkbox
             txtNewPassword.UseSystemPasswordChar = False
         Else
-            txtNewPassword.UseSystemPasswordChar = True
+            txtNewPassword.UseSystemPasswordChar = False
 
         End If
     End Sub
