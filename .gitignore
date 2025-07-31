@@ -1,0 +1,5 @@
+.Vs/
+bin/
+obj/
+*.user
+*.suo
