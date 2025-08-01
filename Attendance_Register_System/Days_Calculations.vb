@@ -28,7 +28,6 @@ Public Class Days_Calculations
             Me.Close()
 
         Else
-
             MsgBox("And we are back once again", MsgBoxStyle.Information + MsgBoxStyle.OkOnly, "For Administrator")
         End If
     End Sub
